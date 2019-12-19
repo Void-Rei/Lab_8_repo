@@ -1,0 +1,8 @@
+Additional parameters:
+m = 2   k = 4
+Size of sqare matrix: 4x4
+3.5 23.65 67.45 385.4
+43.56 687.5 1231.3 646.3
+34.6 45.6 67.45 5.67
+92.563 275.56 486.375 363.78
+Maximum value is 687.5
